@@ -6,3 +6,5 @@ to the screen and fires. The player shoots and
 destroys the aliens. If any alien hits the 
 player’s ship and reaches the bottom of the screen, 
 the player loses a life. If the player loses life, the game ends.
+
+![Screenshot from 2022-07-29 17-44-11](https://user-images.githubusercontent.com/107188569/181773707-435d2058-4687-41e1-b776-a9eb0d4e669c.png)
